@@ -1,5 +1,3 @@
-# OpenStack Tmpreaper Module
+# This repo has moved to OpenDev
 
-## Overview
-
-Configures Tmpreaper.
+It can now be found at [https://opendev.org/opendev/puppet-tmpreaper](https://opendev.org/opendev/puppet-tmpreaper)
